@@ -11,5 +11,5 @@
   + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
 
   ### Survey
-  + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect (https://arxiv.org/pdf/2401.16402)
-  + A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection (https://arxiv.org/pdf/2410.21982)
+  + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[Paper]](https://arxiv.org/pdf/2401.16402)
+  + A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection [[Paper]](https://arxiv.org/pdf/2410.21982)
