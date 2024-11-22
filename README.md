@@ -13,4 +13,4 @@
 
   ### Survey
   + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[Paper]](https://arxiv.org/pdf/2401.16402)
-  + A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection [[Paper]](https://arxiv.org/pdf/2410.21982)
+  + A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection [[Paper]](https://arxiv.org/pdf/2410.21982)[[github]](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD)
