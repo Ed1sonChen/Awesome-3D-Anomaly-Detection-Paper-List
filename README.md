@@ -1,4 +1,4 @@
-# Awesome-3D-Anomaly-Detection-Paper-List
+# Awesome 3D Anomaly Detection Paper List
 ---
 ## 3D AD
   ### Dataset
