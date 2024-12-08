@@ -10,6 +10,7 @@
   + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
   + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
   + Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)[[code]](https://github.com/hustCYQ/MVP-PCLIP)
+  + Towards Zero-shot 3D Anomaly Localization [[2024]](https://arxiv.org/abs/2412.04304)
 
   ### Survey
   + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[Paper]](https://arxiv.org/pdf/2401.16402)
