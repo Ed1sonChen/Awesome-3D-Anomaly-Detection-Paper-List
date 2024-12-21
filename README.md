@@ -6,6 +6,7 @@
   + MulSen-AD: A Dataset and Benchmark for Multi-Sensor Anomaly Detection [[2024]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[[code]](https://github.com/ZZZBBBZZZ/MulSen-AD)
   + Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [[CVPR 2024]](https://arxiv.org/abs/2311.14897)[[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
   + Looking 3D: Anomaly Detection with 2D-3D Alignment [[CVPR 2024]](https://arxiv.org/abs/2406.19393)[[code]](https://github.com/VICO-UoE/Looking3D?tab=readme-ov-file)
+  + Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties[[2024]](https://arxiv.org/abs/2412.14592)[[code]](https://github.com/ZZZBBBZZZ/MulSen-AD)
 
   ### Method
   + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
