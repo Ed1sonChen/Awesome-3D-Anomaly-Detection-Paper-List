@@ -16,6 +16,7 @@
   + RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection [[2024]](https://www.arxiv.org/abs/2410.01737)
   + Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2401.03145)
   + PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection [[2024]](https://arxiv.org/abs/2412.12617)
+  + Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective [[AAAI 2025]](https://arxiv.org/abs/2412.17297)
 
   ### Survey
   + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[Paper]](https://arxiv.org/pdf/2401.16402)
